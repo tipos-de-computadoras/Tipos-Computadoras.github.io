@@ -20,9 +20,9 @@ box-shadow: inset 20px 20px 16px #8300b3,
            text-decoration: none;
            padding: 10px 20px;
            display: block;
-border-radius: 50px;
-background: #ff007b;
-box-shadow: inset 20px 20px 16px #b30056,
+            border-radius: 50px;
+            background: #ff007b;
+            box-shadow: inset 20px 20px 16px #b30056,
             inset -20px -20px 16px #ff00a0;}
 
 ul, ol{list-style: none;}
